@@ -1,4 +1,4 @@
-package javase.project.forumservice.view;
+package javase.project.forumservice.fel.view;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
