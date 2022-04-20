@@ -1,0 +1,8 @@
+Les objets:
+
+-Élections
+-Électeur
+-Candidat
+et -Vote
+
+doivent être dans des bases de données relationnelles SQL-Server en ligne

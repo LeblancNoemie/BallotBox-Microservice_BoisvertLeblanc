@@ -1,0 +1,6 @@
+Les objets:
+
+-Forum
+-Post
+
+doivent être dans des bases de données JSON (mongo atlas)
